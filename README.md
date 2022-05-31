@@ -16,7 +16,7 @@ These are the data science portfolio should address the questions with tangible 
 
 This project involves analyzing large data sets, such as purchase history, to reveal product groupsings, as well as products that are likely to be purhcase together. 
 * Apriori Algorithm 
-![alt text] (marketbasketanalysis.jpg)
+![alt text] (marketbasketanalysis.png)
 
 # Project 2: Human Resource data
 
