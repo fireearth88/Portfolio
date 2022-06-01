@@ -29,7 +29,9 @@ This project involves analyzing large data sets, such as purchase history, to re
 
 
 # Project 2: Crypto Trading Bot
+
 ![image](marketbasketanalysis.png) 
+
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
 * **Input:** Cryptocurrency historical price
