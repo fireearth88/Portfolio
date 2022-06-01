@@ -1,6 +1,6 @@
 ## Welcome to My "Hello World" Data Science Portfolio Playground!!! 
 
-Page_Pic_Github.png 
+![image] (Page_Pic_Github.png)  
 
 # Overview
 These are the data science portfolio projects that address the questions with tangible evidence in the form of functional artificial intelligence and machine learning in various domains like marketing, human resources, production etc.
@@ -11,8 +11,6 @@ These are the data science portfolio projects that address the questions with ta
 * Has extensive background in corporate functions, including Compliance, Business Development, Sales & Marketing and Project Management at 3M, Agilent Technologies and  Certis. 
 
 * Certified Lean Six Sigma Green Belt in 3M by implementing real case projects, by applying the advanced elements of the Lean Six Sigma. 
-
-![image](marketbasketanalysis.png)
 
 * Adjunct Trainer at Jcube Institute and SMU Academy for data and business analytics courses. 
   
@@ -27,7 +25,7 @@ These are the data science portfolio projects that address the questions with ta
 
 This project involves analyzing large data sets, such as purchase history, to reveal product groupsings, as well as products that are likely to be purhcase together. 
 * Apriori Algorithm 
-![alt text] (marketbasketanalysis.png)
+![image](marketbasketanalysis.png) 
 
 # Project 2: Human Resource data
 
