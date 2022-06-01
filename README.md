@@ -12,7 +12,7 @@ These are the data science portfolio projects that address the questions with ta
 
 * Certified Lean Six Sigma Green Belt in 3M by implementing real case projects, by applying the advanced elements of the Lean Six Sigma. 
 
-![image](https://user-images.githubusercontent.com/74098515/171306744-8de8eca4-da20-4e6e-af3b-e7f44a2a924f.png)
+![image](marketbasketanalysis.png)
 
 * Adjunct Trainer at Jcube Institute and SMU Academy for data and business analytics courses. 
   
