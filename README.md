@@ -1,12 +1,13 @@
-## Welcome to my portfolio Pages
+## Welcome to my data science portfolio space
 
-# Data-Science-Portfolio-
-These are the data science portfolio should address the questions with tangible evidence in the form of functional artificial intelligence and machine learning projects.
-# Evelyn
+# Overview
+These are the data science portfolio projects that address the questions with tangible evidence in the form of functional artificial intelligence and machine learning in various domains like marketing, human resources, production etc.
+
+# Working Experiences 
 *Currently working as a Data Governance Analyst to depploy and enforce policies and business processes that ensure accurate and high data quality throughout its lifecycle. Besides being adept in software development, data analysis, machine learning, natural language programming and applications.
 
+* Adjunct Trainer at Jcube Insutitute and SMU Acadcamy for data and business analytics courses. 
   
-
 # Education
 * Cerified Data Analyst (CDA) course at Jcube Insititute 
 * Masters of Science (Consumer Electronics), *Nanyang Technological University*
