@@ -1,4 +1,4 @@
-## Welcome to my "Hello World" data science portfolio playground!!! 
+## Welcome to My "Hello World" Data Science Portfolio Playground!!! 
 
 Page_Pic_Github.png 
 
