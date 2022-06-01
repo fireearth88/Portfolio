@@ -4,9 +4,14 @@
 These are the data science portfolio projects that address the questions with tangible evidence in the form of functional artificial intelligence and machine learning in various domains like marketing, human resources, production etc.
 
 # Working Experiences 
-*Currently working as a Data Governance Analyst to depploy and enforce policies and business processes that ensure accurate and high data quality throughout its lifecycle. Besides being adept in software development, data analysis, machine learning, natural language programming and applications.
+* Currently working as a Data Governance Analyst to depploy and enforce policies and business processes that ensure accurate and high data quality throughout its lifecycle. Besides being adept in software development, data analysis, machine learning, natural language programming and applications.
+
+extensive background in corporate functions, including Compliance, Business Development, Sales & Marketing and Project Management at 3M, Agilent Technologies and ST Engineering. Evelyn is also a Certified Lean Six Sigma Green Belt and Certified Scrum Master. She is well-versed in applying the advanced elements of the Lean Six Sigma, Agile and Scrum Methodologies in any organization![image](https://user-images.githubusercontent.com/74098515/171306744-8de8eca4-da20-4e6e-af3b-e7f44a2a924f.png)
+
 
 * Adjunct Trainer at Jcube Insutitute and SMU Acadcamy for data and business analytics courses. 
+  
+  
   
 # Education
 * Cerified Data Analyst (CDA) course at Jcube Insititute 
