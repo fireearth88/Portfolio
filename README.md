@@ -1,6 +1,6 @@
 ## Welcome to My "Hello World" Data Science Portfolio Playground!!! 
 
-![image](marketbasketanalysis.png) 
+![image](Page_Pic_Github.png) 
 
 # Overview
 These are the data science portfolio projects that address the questions with tangible evidence in the form of functional artificial intelligence and machine learning in various domains like marketing, human resources, production etc.
