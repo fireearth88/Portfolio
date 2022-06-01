@@ -12,7 +12,7 @@ These are the data science portfolio projects that address the questions with ta
 
 ![image](https://user-images.githubusercontent.com/74098515/171306744-8de8eca4-da20-4e6e-af3b-e7f44a2a924f.png)
 
-* Adjunct Trainer at Jcube Insutitute and SMU Acadcamy for data and business analytics courses. 
+* Adjunct Trainer at Jcube Institute and SMU Academy for data and business analytics courses. 
   
   
 # Education
