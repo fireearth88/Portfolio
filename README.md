@@ -50,7 +50,7 @@ This project involves turning RFM segmentation into a powerful marketing techniq
 * **Input:** “Online_retail.csv” from UCI Machine Learning Repository data (https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) 
 * **Output:** RFM Analysis for customer segmentation. 
 
-Here is link for the code book: 
+Here is link for the code book: https://github.com/fireearth88/Portfolio/blob/main/Projects/notebooks/RFM_analysis.ipynb 
 
 # Project 2: Crypto Trading Bot
 
