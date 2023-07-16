@@ -1,7 +1,8 @@
 # Welcome to my Data Science Portfolio Playground!!! 
 
-Transitioning from a solid engineering background to the field of data analytics, this portfolio is a testament to my dedication and enthusiasm for understanding and working with data. Over the years, my engineering expertise has laid a strong foundation for analytical thinking and problem-solving. Building upon this, I've expanded my skills to incorporate various aspects of data science, ranging from machine learning (both supervised and unsupervised), data preprocessing, exploratory data analysis, to predictive modeling and data visualization using tools like python and power BI respectively. 
 ![image](portfolio.jpg) 
+
+Transitioning from a solid engineering background to the field of data analytics, this portfolio is a testament to my dedication and enthusiasm for understanding and working with data. Over the years, my engineering expertise has laid a strong foundation for analytical thinking and problem-solving. Building upon this, I've expanded my skills to incorporate various aspects of data science, ranging from machine learning (both supervised and unsupervised), data preprocessing, exploratory data analysis, to predictive modeling and data visualization using tools like python and power BI respectively. 
 
 # Overview
 
