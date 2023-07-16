@@ -1,9 +1,12 @@
-# Welcome to My "Hello World" Data Science Portfolio Playground!!! 
+# Welcome to my Data Science Portfolio Playground!!! 
 
-#![image](Page_Pic_Github.png) 
+Transitioning from a solid engineering background to the field of data analytics, this portfolio is a testament to my dedication and enthusiasm for understanding and working with data. Over the years, my engineering expertise has laid a strong foundation for analytical thinking and problem-solving. Building upon this, I've expanded my skills to incorporate various aspects of data science, ranging from machine learning (both supervised and unsupervised), data preprocessing, exploratory data analysis, to predictive modeling and data visualization using tools like python and power BI respectively. 
+![image](portfolio.jpg) 
 
 # Overview
-These are the data science portfolio projects that address the questions with tangible evidence in the form of functional artificial intelligence and machine learning in various domains like E-commerce, Real Estate, Banking etc.
+
+This portfolio showcases a range of projects where I have applied my data analytics skills across different business use cases in domains like E-commerce, real estate, banking etc. Each of these projects has enriched my data science expertise, allowing me to effectively leverage data in innovative ways. 
+
 
 # Project 1: Customer Segmentation in E-Commerce
 ![image](marketbasketanalysis.png) 
