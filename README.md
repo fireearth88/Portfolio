@@ -8,8 +8,8 @@ These are the data science portfolio projects that address the questions with ta
 # Project 1: Customer Segmentation in E-Commerce
 ![image](marketbasketanalysis.png) 
 
-This project involves analyzing large data sets, such as purchase history, to reveal product groupsings, as well as products that are likely to be purhcase together. 
-* Apriori Algorithm 
+This project involves turning RFM segmentation into a powerful marketing technique for uncderstanding customer behaviour and driving growth. RFM is a three-dimensional customer segmentaion model that evaluates customers on three metrics - recency, frequency, and monetary value.  
+* Kmeans Algorithm (i.e. Unsupervised Machine Learning) 
 
 # Project 2: Crypto Trading Bot
 
