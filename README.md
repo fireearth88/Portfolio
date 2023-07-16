@@ -52,13 +52,4 @@ This project involves turning RFM segmentation into a powerful marketing techniq
 
 Here is link for the code book: https://github.com/fireearth88/Portfolio/blob/main/Projects/notebooks/RFM_analysis.ipynb 
 
-# Project 2: Crypto Trading Bot
-
-![image](cypto.jpg) 
-
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
-
 
