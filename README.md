@@ -13,6 +13,7 @@ This portfolio showcases a range of projects where I have applied my data analyt
 ![image](segmentation.jpg) 
 
 ### Background
+
 Frequently asked questions by your manager in Sales/Marketing Department if you do not meet sales target:
 - "It costs 5 times more to attract a new customer than retaining a current customer"
 - "20% of your customers generate 80% of your revenue"
