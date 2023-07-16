@@ -10,7 +10,7 @@ This portfolio showcases a range of projects where I have applied my data analyt
 
 
 # Project 1: Customer Segmentation in E-Commerce
-![image](marketbasketanalysis.png) 
+![image](segmentation.jpg) 
 
 This project involves turning RFM segmentation into a powerful marketing technique for uncderstanding customer behaviour and driving growth. RFM is a three-dimensional customer segmentaion model that evaluates customers on three metrics - recency, frequency, and monetary value.  
 * Kmeans Algorithm (i.e. Unsupervised Machine Learning) 
