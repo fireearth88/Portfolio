@@ -2,7 +2,7 @@
 
 ![image](portfolio.jpg) 
 
-Transitioning from a solid engineering background to the field of data analytics, this portfolio is a testament to my dedication and enthusiasm for understanding and working with data. Over the years, my engineering expertise has laid a strong foundation for analytical thinking and problem-solving. Building upon this, I've expanded my skills to incorporate various aspects of data science, ranging from machine learning (both supervised and unsupervised), data preprocessing, exploratory data analysis, to predictive modeling and data visualization using tools like python and power BI respectively. 
+Transitioning from engineering background to the field of data analytics, this portfolio is a testament to my dedication and enthusiasm for understanding and working with data. Over the years, my engineering expertise has laid a strong foundation for analytical thinking and problem-solving. Building upon this, I've expanded my skills to incorporate various aspects of data science, ranging from machine learning (both supervised and unsupervised), data preprocessing, exploratory data analysis, to predictive modeling and data visualization using tools like python and power BI respectively. 
 
 # Overview
 
@@ -22,7 +22,7 @@ Frequently asked questions by your manager in Sales/Marketing Department if you 
 
 In fact that many companies still do not know their customers properly as there is no system in place to manage existing customers. They generate thousands of customer databases, but they do not analyze it at regular intervals. They usually use the old methods when examining customer data in sales or marketing departments.
 
-### "If your retention is poor then nothing else matters." Brian Balfour, Founder/CEO of REforge
+### "If your retention is poor then nothing else matters." Brian Balfour, Founder/CEO of Reforge
 
 The best way to get to know your customers is through customer segmentation.
 Customer segmentation is the process of diving customers into groups or segments with respect to common characteristics.
